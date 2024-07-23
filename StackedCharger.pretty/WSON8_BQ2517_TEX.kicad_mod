@@ -61,7 +61,7 @@
   (pad "7" smd rect (at 1.0033 -0.250063) (size 0.7112 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 30a36db3-bf2b-4237-861b-4a5faafdcc14))
   (pad "8" smd rect (at 1.0033 -0.750189) (size 0.7112 0.2794) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7f4b6f8c-a69f-430c-b837-6ca3c93ef14c))
   (pad "9" smd rect (at 0 0) (size 0.9906 1.7018) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd3be1d0-9622-40df-80cb-1f34e6e275a6))
-  (model "${KIPRJMOD}/footprints.pretty/DSG0008A.stp"
+  (model "DSG0008A.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
