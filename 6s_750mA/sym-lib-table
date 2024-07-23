@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "StackedCharger")(type "KiCad")(uri "${KIPRJMOD}/../StackedCharger.kicad_sym")(options "")(descr ""))
+)
