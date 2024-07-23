@@ -113,7 +113,7 @@
         "max_error": 0.005,
         "min_clearance": 0.127,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.508,
+        "min_copper_edge_clearance": 0.381,
         "min_hole_clearance": 0.254,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
@@ -173,7 +173,8 @@
         0.0,
         0.254,
         0.635,
-        1.27
+        1.27,
+        2.54
       ],
       "via_dimensions": [
         {
