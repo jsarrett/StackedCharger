@@ -998,7 +998,7 @@
     (uuid f27d249a-e404-452e-8369-c8928f2de98e)
   )
 
-  (label "STAT" (at 240.03 105.41 90) (fields_autoplaced)
+  (label "STAT" (at 245.11 105.41 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 76691a58-7874-4072-8378-8ee7647abcab)
   )
@@ -1006,7 +1006,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8b90c90d-2204-42d8-a3ca-2df19dd6a5cd)
   )
-  (label "PG" (at 245.11 105.41 90) (fields_autoplaced)
+  (label "PG" (at 240.03 105.41 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a913fd1f-accb-4c55-af38-39c6b03e4472)
   )
