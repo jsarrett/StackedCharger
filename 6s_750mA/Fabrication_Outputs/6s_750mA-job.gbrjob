@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.11+dfsg-1build4"
     },
-    "CreationDate": "2024-07-23T19:21:25-07:00"
+    "CreationDate": "2024-08-12T23:44:42-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 71.8268,
+      "X": 74.98,
       "Y": 55.93
     },
     "LayerNumber": 2,
@@ -27,7 +27,7 @@
       "PadToPad": 0.127,
       "PadToTrack": 0.127,
       "TrackToTrack": 0.127,
-      "MinLineWidth": 0.2032,
+      "MinLineWidth": 0.254,
       "TrackToRegion": 0.254,
       "RegionToRegion": 0.254
     }
@@ -46,11 +46,6 @@
     {
       "Path": "6s_750mA-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "6s_750mA-B_Paste.gbp",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
